@@ -1,6 +1,7 @@
 <!-- APRESENTAÇÃO -->
+<br>
 <img align="left" src='.github/brilho.gif' alt="brilinho" width="10%">
-    <img align="right" src='.github/brilho.gif' alt="brilinho" width="10%">
+<img align="right" src='.github/brilho.gif' alt="brilinho" width="10%">
 <h1 align="center">✨Hi, nice to meet you✨
     <img align="right" >
 
@@ -20,7 +21,7 @@
     A Beginner Developer Focused on Back-end | Full-Stack
 </h3>
 <!-- SOBRE MIM -->
-- 🌱 I am currently studying JS and CSS at [Rocketseat](https://app.rocketseat.com.br/me/vitor-crl) and [Esamc Santos](https://www.esamc.br/unidade/Santos/)
+- 🌱 I am currently studying Programmer Full-Stack at <a href="https://app.rocketseat.com.br/me/vitor-crl">Rocketseat</a> and <a href="https://www.esamc.br/unidade/Santos/"> Esamc Santos</a>.
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects and mobile
 
