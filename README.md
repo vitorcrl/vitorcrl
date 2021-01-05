@@ -1,7 +1,7 @@
 <!-- APRESENTAÇÃO -->
 <br>
-<img align="left" src='.github/brilho.gif' alt="brilinho" width="10%">
-<img align="right" src='.github/brilho.gif' alt="brilinho" width="10%">
+<img align="left" src='.github/brilho.gif' alt="brilinho" width="7%">
+<img align="right" src='.github/brilho.gif' alt="brilinho" width="7%">
 <h1 align="center">✨Hi, nice to meet you✨
     <img align="right" >
 
@@ -14,7 +14,7 @@
     <br>
     Computer Engineering Student and RocketSeat.
 
-<br><br><br><br><!--spacing-3x-->
+<br><br><br><br><br><!--spacing-3x-->
 
 <!-- FOCO... -->
 <h3 align="Left">
@@ -32,7 +32,25 @@
 - ⚡ Fun fact i'm a big fan of Rick and Morty
 
 <img align="right" src='.github/cat.gif' alt="Gatineo" width="150">
+
+<!-- REDES SOCIAIS -->
+<p align="center">
+    <a href="https://twitter.com/vitinhocrl" target="blank">
+        <img src=".github/twitter.svg" alt="Twitter" height="20"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/" target="blank">
+        <img src=".github/linkedin.svg" alt="Linkedin" height="20"/>
+    </a>
+    <a href="https://www.instagram.com/vitorcrl/" target="blank">
+        <img src=".github/instagram.svg" alt="Instagram" height="20"/>
+    </a>
+    <a href="https://discord.gg/DMuCj2s" target="blank">
+        <img src=".github/discord.svg" alt="Discord" height="20"/>
+    </a>
+</p>
+
 <!--
+
 
 **vitorcrl/vitorcrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
