@@ -44,7 +44,7 @@
     <a href="https://www.instagram.com/vitorcrl/" target="blank">
         <img src=".github/instagram.svg" alt="Instagram" height="20"/>
     </a>
-    <a href="https://discord.gg/DMuCj2s" target="blank">
+    <a href="https://discord.com/channels/@vitorcrl13#9193" target="blank">
         <img src=".github/discord.svg" alt="Discord" height="20"/>
     </a>
 </p>
