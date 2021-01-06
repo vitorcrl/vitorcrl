@@ -1,13 +1,14 @@
 <!-- APRESENTAÇÃO -->
 <br>
-<img align="left" src='.github/brilho.gif' alt="brilinho" width="7%">
-<img align="right" src='.github/brilho.gif' alt="brilinho" width="7%">
+<img align="left" src='.github/fogos.gif' alt="brilinho" width="8%">
+  <img align="right" src='.github/fogos.gif' alt="brilinho" width="8%">
+
 <h1 align="center">✨Hi, nice to meet you✨
     <img align="right" >
 
 </h1>
 <img align="left" src='.github/doge.gif' alt="dogineo" width="25%">
-<p align="right">Welcome to my page, on GitHub!
+<h2 align="right" >Welcome to my page, on GitHub!</h2>
 <br>
     <br>
     I am Vitor Carlos de Souza, full-stack programmer.
@@ -21,7 +22,8 @@
     A Beginner Developer Focused on Back-end | Full-Stack
 </h3>
 <!-- SOBRE MIM -->
-- 🌱 I am currently studying Programmer Full-Stack at <a href="https://app.rocketseat.com.br/me/vitor-crl">Rocketseat</a> and <a href="https://www.esamc.br/unidade/Santos/"> Esamc Santos</a>.
+
+- 🌱 I am currently studying Programmer Full-Stack at <a href="https://app.rocketseat.com.br/me/vitor-crl">Rocketseat</a> and <a href="https://www.esamc.br/unidade/Santos/"> Esamc Santos</a>
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects and mobile
 
