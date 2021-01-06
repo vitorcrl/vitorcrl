@@ -8,7 +8,7 @@
 
 </h1>
 <img align="left" src='.github/doge.gif' alt="dogineo" width="25%">
-<h2 align="right" >Welcome to my page, on GitHub!</h2>
+<p align="right" >Welcome to my page, on GitHub!
 <br>
     <br>
     I am Vitor Carlos de Souza, full-stack programmer.
