@@ -1,8 +1,8 @@
 <!-- APRESENTAÇÃO -->
 <br>
-<img align="left" src='.github/fogos.gif' alt="brilinho" width="8%">
-  <img align="right" src='.github/fogos.gif' alt="brilinho" width="8%">
-
+<img align="left" src='.github/fogos.gif' alt="brilinho" width="7%">
+<!---- <img align="right" src='.github/fogos.gif' alt="brilinho" width="8%"> 
+--->
 <h1 align="center">✨Hi, nice to meet you✨
     <img align="right" >
 
