@@ -50,7 +50,6 @@
         <img src=".github/discord.svg" alt="Discord" height="20"/>
     </a>
 </p>
-[![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorcrl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
