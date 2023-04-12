@@ -8,6 +8,9 @@
 
 </h1>
 <img align="left" src='.github/doge.gif' alt="dogineo" width="25%">
+<img align="left" src='https://tc-terraform-s3-bucket.s3.amazonaws.com/edito.jpg' alt="gatito" width="25%">
+<br>
+
 <p align="right" >Welcome to my page, on GitHub!
 <br>
     <br>
