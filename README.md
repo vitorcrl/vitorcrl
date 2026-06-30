@@ -1,83 +1,60 @@
-<!-- APRESENTAÇÃO -->
-<br>
-<img align="left" src='.github/fogos.gif' alt="brilinho" width="7%">
-<!---- <img align="right" src='.github/fogos.gif' alt="brilinho" width="8%"> 
---->
-<h1 align="center">✨Hi, nice to meet you✨
-    <img align="right" >
+<h1 align="center">Hey, I'm Vitor 👋</h1>
 
-</h1>
-<img align="left" src='.github/doge.gif' alt="dogineo" width="25%">
-<img align="left" src='https://tc-terraform-s3-bucket.s3.amazonaws.com/edito.jpg' alt="gatito" width="25%">
-<br>
-
-<p align="right" >Welcome to my page, on GitHub!
-<br>
-    <br>
-    I am Vitor Carlos de Souza, full-stack programmer.
-    <br>
-    Computer Engineering Student and RocketSeat.
-
-<br><br><br><br><br><!--spacing-3x-->
-
-<!-- FOCO... -->
-<h3 align="Left">
-    A Beginner Developer Focused on Back-end | Full-Stack
-</h3>
-<!-- SOBRE MIM -->
-
-- 🌱 I am currently studying Programmer Full-Stack at <a href="https://app.rocketseat.com.br/me/vitor-crl">Rocketseat</a> and <a href="https://www.esamc.br/unidade/Santos/"> Esamc Santos</a>
-
-- 👨🏻‍💻 I’m looking to collaborate on web projects and mobile
-
-- 🤔 I’m looking for help with React and virtual machines
-
-- ✉ How to reach me vitorcarlos1312@gmail.com
-
-- ⚡ Fun fact i'm a big fan of Rick and Morty
-
-<img align="right" src='.github/cat.gif' alt="Gatineo" width="150">
-
-<!-- REDES SOCIAIS -->
 <p align="center">
-    <a href="https://twitter.com/vitinhocrl" target="blank">
-        <img src=".github/twitter.svg" alt="Twitter" height="20"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/" target="blank">
-        <img src=".github/linkedin.svg" alt="Linkedin" height="20"/>
-    </a>
-    <a href="https://www.instagram.com/vitorcrl/" target="blank">
-        <img src=".github/instagram.svg" alt="Instagram" height="20"/>
-    </a>
-    <a href="https://discord.com/channels/@vitorcrl13#9193" target="blank">
-        <img src=".github/discord.svg" alt="Discord" height="20"/>
-    </a>
+  Back-end Engineer · Node.js · Python · AWS
 </p>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorcrl&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorcrl&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=vitorcrl&show_icons=true" />
-</picture>
 
-<!--
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitorsouza-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vitorcarlos1312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://vitor-carlos.github.io/vitorcrl.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
+---
 
-**vitorcrl/vitorcrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+Back-end engineer with 5+ years of experience building production systems. Currently working at two companies simultaneously — at **FinderUp** as a technical reference (architecture decisions, code review, direct client contact) and at **Opstream** on Python/AWS-heavy systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+I enjoy working at the intersection of solid software engineering and applied AI — I actively use LLM tooling in my workflow and explore agent automation with n8n.
+
+---
+
+### Stack
+
+**Languages**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+**Frameworks & Tools**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat&logo=typeorm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+
+---
+
+### Currently
+
+- 🏗 Building and maintaining distributed back-end systems at **FinderUp** and **Opstream**
+- 🤖 Experimenting with AI agent automation — LLM integrations, n8n workflows, Claude Code
+- 📖 Going deeper into system design and distributed architecture patterns
+
