@@ -20,7 +20,7 @@
 
 ### About me
 
-Back-end engineer with 5+ years of experience building production systems. Currently working at two companies simultaneously — at **FinderUp** as a technical reference (architecture decisions, code review, direct client contact) and at **Opstream** on Python/AWS-heavy systems.
+Back-end engineer with 5+ years of experience building production systems. Currently working at two companies simultaneously — at **FinderUp** as a technical reference (architecture decisions, code review, direct client contact) and at **FinderUp** on Python/AWS-heavy systems.
 
 I enjoy working at the intersection of solid software engineering and applied AI — I actively use LLM tooling in my workflow and explore agent automation with n8n.
 
@@ -54,7 +54,7 @@ I enjoy working at the intersection of solid software engineering and applied AI
 
 ### Currently
 
-- 🏗 Building and maintaining distributed back-end systems at **FinderUp** and **Opstream**
+- 🏗 Building and maintaining distributed back-end systems at **FinderUp**
 - 🤖 Experimenting with AI agent automation — LLM integrations, n8n workflows, Claude Code
 - 📖 Going deeper into system design and distributed architecture patterns
 
